@@ -1,0 +1,1 @@
+This repository gives an in-depth explanation of the step by step approach to deploy and manage a celo node. the repo consists of the source code for deploying a celo node on the alfajores network using javascript by calling the ethers API which connects the dapp to the celo blockchain
